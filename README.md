@@ -44,11 +44,11 @@ Welcome to the Quote-API repository! This project provides an API for retrieving
    npm start
    ```
 
-Visit `http://localhost:3000` in your browser to access the API.
+Visit `http://localhost:4001` in your browser to access the API.
 
 ## License
 
-This project is licensed under the MIT License. 
+This project is licensed under the MIT License.
 
 ## Author
 
